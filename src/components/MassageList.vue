@@ -1,5 +1,5 @@
 <script>
-import MassageItem from './MassageListItem.vue'
+import { MassageListItem as MassageItem } from './MassageListItem'
 
 export default {
   components: {
@@ -13,5 +13,3 @@ export default {
   <MassageItem />
   <MassageItem />
 </template>
-
-<style scoped></style>

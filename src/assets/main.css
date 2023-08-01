@@ -11,6 +11,11 @@
   color: #fff;
 }
 
+.green-button:hover {
+  background: #00342f;
+  color: #fff;
+}
+
 .custom-margin-bottom {
-  margin-bottom: 125px;
+  margin-bottom: 70px;
 }
