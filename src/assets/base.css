@@ -1,6 +1,8 @@
 body {
-  background: linear-gradient(0deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.3) 100%),
-    #f6ecdd;
+  background-image: url('./images/background.png');
+  background-size: cover; /* Resize the background image to cover the entire element */
+  background-position: center center; /* Center the background image within the element */
+  background-repeat: no-repeat;
 }
 
 h1 {
