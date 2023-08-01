@@ -1,7 +1,7 @@
 body {
   background-image: url('./images/background.png');
-  background-size: cover; /* Resize the background image to cover the entire element */
-  background-position: center center; /* Center the background image within the element */
+  background-size: cover;
+  background-position: center center;
   background-repeat: no-repeat;
 }
 
